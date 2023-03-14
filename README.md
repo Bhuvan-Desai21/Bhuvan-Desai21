@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bhuvan-Desai21
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m Bhuvan Girish Desai
+- 👀 I’m interested in Coding and Gaming
+- 🌱 I’m currently learning Java script (Js) and 
 - 📫 How to reach me: bhuvandesai21@gmail.com
 
 <!---
