@@ -1,7 +1,7 @@
 
 
 ![MasterHead](
-https://www.behance.net/gallery/148126693/Illustrations-for-The-Read-me-Project-by-Github/modules/836741125)
+https://www.behance.net/gallery/148126693/Illustrations-for-The-Read-me-Project-by-Github/modules/836741125.jpg)
 
 
 <h1 align="center">Hey there 👋, I'm Kartikeya Saini</h1>
