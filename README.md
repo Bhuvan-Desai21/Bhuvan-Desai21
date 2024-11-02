@@ -7,17 +7,16 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-three-40.vercel.app/](https://my-portfolio-chi-three-40.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://my-portfolio-chi-three-40.vercel.app/)
 
-- 📝 I regularly write articles on [https://my-portfolio-chi-three-40.vercel.app/blog](https://my-portfolio-chi-three-40.vercel.app/blog)
+- 📝 I sometimes write articles on [my blog](https://my-portfolio-chi-three-40.vercel.app/blog)
 
-- 💬 Ask me about **Python and manhwa!**
+- 💬 Ask me about **Python and Javascript**
 
 - 📫 How to reach me **bhuvandesai21@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolio-chi-three-40.vercel.app](https://my-portfolio-chi-three-40.vercel.app)
+- 📄 Know about my experiences [Click here](https://my-portfolio-chi-three-40.vercel.app/about)
 
-- ⚡ Fun fact **idk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
