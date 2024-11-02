@@ -1,54 +1,33 @@
+<h1 align="center">Hi 👋, I'm Bhuvan Desai</h1>
+<h3 align="center">A Dual Degree Tech Student from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-desai21&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-desai21" /> </p>
 
-![MasterHead](
-https://www.behance.net/gallery/148126693/Illustrations-for-The-Read-me-Project-by-Github/modules/836741125.jpg)
+- 🔭 I’m currently working on [my portfolio](https://my-portfolio-chi-three-40.vercel.app/)
 
+- 🌱 I’m currently learning **JavaScript**
 
-<h1 align="center">Hey there 👋, I'm Kartikeya Saini</h1>
-<h3 align="center" >3rd Year Computer Science Undergrad | 3 Star Codechef | Enthusiastic Programmer Cum Web developer | Proud Geek</h3>
+- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-three-40.vercel.app/](https://my-portfolio-chi-three-40.vercel.app/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-kartik2004&label=Profile%20views&color=0e75b6&style=flat" alt="hi-kartik2004" /> </p>
+- 📝 I regularly write articles on [https://my-portfolio-chi-three-40.vercel.app/blog](https://my-portfolio-chi-three-40.vercel.app/blog)
 
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p> -->
+- 💬 Ask me about **Python and manhwa!**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+- 📫 How to reach me **bhuvandesai21@gmail.com**
 
-- 🌱 I’m currently learning **Rust**
+- 📄 Know about my experiences [https://my-portfolio-chi-three-40.vercel.app](https://my-portfolio-chi-three-40.vercel.app)
 
-- 👯 I’m looking to collaborate on **Full-stack Web Development projects**
-
-- 📫 How to reach me **kudlu2004@gmail.com**
-
-- ⚡ Fun fact **I'm not new to GitHub :)**
+- ⚡ Fun fact **idk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kartikeya saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeya saini" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kartik2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kartik2004" height="30" width="40" /></a>
+<a href="https://dev.to/@bhuvandesai21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@bhuvandesai21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhuvandesai21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhuvandesai21" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/its_bhuvan.21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_bhuvan.21/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,docker,tailwind,firebase,js,css,html,php,mysql,git,github,figma,c,cpp,bootstrap,ubuntu,windows,postman,rust,prisma,react,vscode,webflow,ai,vercel,netlify" />
-  </a>
-</p>
-	
-<br>
-<br>
-<br>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats:
-
-
-<!-- <img
-     width=100%
-src="https://github-readme-stats.vercel.app/api?username=hi-kartik2004&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&custom_title=GitHub+Stats&PAT_1"><br/> <br> -->
-<img
-     width=100%
-src="https://github-readme-streak-stats.herokuapp.com?user=hi-kartik2004&theme=great-gatsby">
-</p>
-<img
-     width=100%
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby">
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bhuvandesai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhuvandesai" /></a></p><br><br>
