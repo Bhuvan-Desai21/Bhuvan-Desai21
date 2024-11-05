@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-desai21&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-desai21" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://my-portfolio-chi-three-40.vercel.app/)
+- 🔭 I’m currently working on my portfolio.
 
 - 🌱 I’m currently learning **JavaScript**
 
