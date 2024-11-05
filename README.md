@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://my-portfolio-chi-three-40.vercel.app/)
-
-- 📝 I sometimes write articles on [my blog](https://my-portfolio-chi-three-40.vercel.app/blog)
-
 - 💬 Ask me about **Python and Javascript**
 
 - 📫 How to reach me **bhuvandesai21@gmail.com**
