@@ -37,15 +37,5 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-</div>
 
-## :trophy: My Github Stats:
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Bhuvan-Desai21&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Bhuvan-Desai21&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvan-Desai21&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvan-Desai21&hide=php&theme=tokyonight" />
-</a>
-</div> 
 
