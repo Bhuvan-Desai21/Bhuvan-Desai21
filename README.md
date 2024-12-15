@@ -11,10 +11,10 @@
 - 📫 How to reach me **bhuvandesai21@gmail.com**
 
 
-## :email: Find me on:
 
 
-<p align="center">
+
+<p align="left">
 <a href="https://dev.to/@bhuvandesai21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@bhuvandesai21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhuvandesai21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhuvandesai21" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its_bhuvan.21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_bhuvan.21/" height="30" width="40" /></a>
