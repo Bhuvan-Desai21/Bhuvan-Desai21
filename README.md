@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-desai21&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-desai21" /> </p>
 
-## Hi, I'm Bhuvan Desai! 👋
-
 ### About Me
 - 🔭 **Currently building my portfolio** 
 - 🌱 **Learning through the [Fullstack Open course](https://fullstackopen.com/en/)**  
@@ -13,9 +11,12 @@
 - 📫 **Reach me at:** bhuvandesai21@gmail.com  
 
 ### Connect with Me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/bhuvandesai21) 
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/its_bhuvan.21/)  
-
+<a href="https://www.linkedin.com/in/bhuvandesai21" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+</a>
+<a href="https://www.instagram.com/its_bhuvan.21/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
+</a>
 
 
 
