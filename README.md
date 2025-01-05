@@ -3,6 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-desai21&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-desai21" /> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuvan-desai21)](https://github.com/bhuvan-desai21github-readme-stats)
 
 ### About Me
 - 🔭 **Currently building new projects and focusing on DSA** 
