@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm Bhuvan Desai 
+## Hi, I'm Bhuvan Desai 
 ### About Me
 - 🔭 **Currently building new projects and focusing on DSA** 
 - 🌱 **Learning through the [Fullstack Open course](https://fullstackopen.com/en/)**  
@@ -13,7 +13,8 @@
 <a href="https://www.instagram.com/its_bhuvan.21/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
 </a>
-## 🧰 Languages and Tools:
+
+### Languages and Tools:
 <div align="left">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
@@ -28,6 +29,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+	
 ### My stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-desai21&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-desai21" /> </p>
 <a href="https://github.com/bhuvan-desai21/github-readme-stats">
