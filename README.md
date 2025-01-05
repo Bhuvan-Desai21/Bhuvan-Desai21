@@ -1,9 +1,9 @@
 
 ## Hi, I'm Bhuvan Desai 
 ### About Me
-- 🔭 **Currently building new projects and focusing on DSA** 
-- 🌱 **Learning through the [Fullstack Open course](https://fullstackopen.com/en/)**  
-- 💬 **Ask me about Python and JavaScript**  
+- 🔭 **Currently building new projects and focusing on DSA**  
+- 🌱 **Learning through the [opencv course](https://www.youtube.com/watch?v=oXlwWbU8l2o)**  
+- 💬 **Here is my Portfolio [Portfolio](bhuvan-desai21.github.io/portfolio/)**  
 - 📫 **Reach me at:** bhuvandesai21@gmail.com  
 
 ### Languages and Tools:
