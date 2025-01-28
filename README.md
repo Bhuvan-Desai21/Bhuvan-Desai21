@@ -1,28 +1,71 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Bhuvan Desai 
 
-## Hi, I'm Bhuvan Desai 
-### About Me
-- 🔭 **Currently building new projects and focusing on DSA**  
-- 🌱 **Learning through the [opencv course](https://www.youtube.com/watch?v=oXlwWbU8l2o)**  
-- 💬 **Here is my Portfolio [Portfolio](https://bhuvan-desai21.github.io/portfolio/)**  
-- 📫 **Reach me at:** bhuvandesai21@gmail.com  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7C00FF&center=true&vCenter=true&width=550&lines=Aspiring+%26+Data+Scientist;Student+of+Data+Science;Deep+Learning+Explorer;Machine+Learning+Enthusiast;" alt="Typing SVG" />
+</p>
 
-### Languages and Tools:
-<div align="left">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-	
-### My stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-desai21&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-desai21" /> </p>
-<!-- <a href="https://github.com/bhuvan-desai21/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvan-desai21" />
-</a> -->
-<a href="https://github.com/bhuvan-desai21/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvan-desai21&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=#61DAFB)](https://bhuvan-desai21.github.io/portfolio/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvandesai21/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvandesai21@gmail.com)
+  
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Tools & Frameworks
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhuvan-desai21&color=7F5AB6&style=flat-square" alt="Profile views"/>
+</p>
+
+<div align="center">
+  
+  <a href="https://github.com/bhuvan-desai21">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhuvan-desai21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7F5AB6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-desai21&layout=compact&langs_count=8&theme=tokyonight&border_color=7F5AB6"/>  
+  </a>
+
+</div>
+
+---
+
+### 🎨 Featured Projects
+
+<div align="center">
+  
+  [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-desai21&repo=Sales_analysis_through_pandas&theme=tokyonight&border_color=7F5AB6)](https://github.com/bhuvan-desai21/Bake-Mate-AI)
+  [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-desai21&repo=Bake-Mate-AI&theme=tokyonight&border_color=7F5AB6)](https://github.com/bhuvan-desai21/Sales_analysis_through_pandas)
+  
+</div>
+
+---
+
+
+
+
+
 
