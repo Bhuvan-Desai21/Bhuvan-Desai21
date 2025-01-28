@@ -38,7 +38,6 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhuvan-desai21&label=Profile%20views&color=7F5AB6" alt="bhuvan-desai21" /> </p>
 
 <div align="center">
   
