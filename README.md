@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Bhuvan Desai 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7C00FF&center=true&vCenter=true&width=550&lines=Aspiring+%26+Data+Scientist;Student+of+Data+Science;Deep+Learning+Explorer;Machine+Learning+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7C00FF&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist;Student+of+Data+Science;Deep+Learning+Explorer;Machine+Learning+Enthusiast;" alt="Typing SVG" />
 </p>
 
 <div align="center">
