@@ -61,11 +61,7 @@
 
 ---
 
-![Snake animation](https://github.com/bhuvan-desai21/bhuvan-desai21/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
+![Snake animation](https://github.com/Bhuvan-Desai21/Bhuvan-Desai21/blob/output/github-contribution-grid-snake.svg)
 
 
 
