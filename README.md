@@ -54,8 +54,8 @@
 
 <div align="center">
   
-  [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-desai21&repo=Sales_analysis_through_pandas&theme=tokyonight&border_color=7F5AB6)](https://github.com/bhuvan-desai21/Bake-Mate-AI)
-  [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-desai21&repo=Bake-Mate-AI&theme=tokyonight&border_color=7F5AB6)](https://github.com/bhuvan-desai21/Sales_analysis_through_pandas)
+  [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-desai21&repo=Sales_analysis_through_pandas&theme=tokyonight&border_color=7F5AB6)](https://github.com/bhuvan-desai21/Sales_analysis_through_pandas)
+  [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-desai21&repo=Bake-Mate-AI&theme=tokyonight&border_color=7F5AB6)](https://github.com/bhuvan-desai21/Bake-Mate-AI)
   
 </div>
 
