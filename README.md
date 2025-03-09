@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=#61DAFB)](https://bhuvan-desai21.github.io/portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=#61DAFB)](https://bhuvan-desai21.github.io/portfolio-new/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvandesai21/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvandesai21@gmail.com)
   
