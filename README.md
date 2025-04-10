@@ -42,7 +42,7 @@
 <div align="center">
   
   <a href="https://github.com/bhuvan-desai21">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhuvan-desai&show_icons=true&theme=tokyonight&border_color=7F5AB6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhuvan-Desai21&show_icons=true&theme=tokyonight&border_color=7F5AB6"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-desai21&layout=compact&langs_count=8&theme=tokyonight&border_color=7F5AB6"/>  
   </a>
 
