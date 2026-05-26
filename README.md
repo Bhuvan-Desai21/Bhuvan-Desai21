@@ -34,32 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 📈 GitHub Analytics
-
-
-<div align="center">
-  
-  <a href="https://github.com/bhuvan-desai21">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhuvan-Desai21&show_icons=true&theme=tokyonight&border_color=7F5AB6"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-desai21&layout=compact&langs_count=8&theme=tokyonight&border_color=7F5AB6"/>  
-  </a>
-
-</div>
-
----
-
-### 🎨 Featured Projects
-
-<div align="center">
-  
-  [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-desai21&repo=Sales_analysis_through_pandas&theme=tokyonight&border_color=7F5AB6)](https://github.com/bhuvan-desai21/Sales_analysis_through_pandas)
-  [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-desai21&repo=Bake-Mate-AI&theme=tokyonight&border_color=7F5AB6)](https://github.com/bhuvan-desai21/Bake-Mate-AI)
-  
-</div>
-
----
 
 
 
